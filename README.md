@@ -23,3 +23,6 @@
 - [전체 모델 (현재 정확도 = 0.71)](https://github.com/suimn416/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim.ipynb) 
   [[참고한 코드](https://github.com/lyakaap/NetVLAD-pytorch)]
 - [전체 모델 (keras 버전) 구현 중(미완)](https://drive.google.com/file/d/1OyTXv6IG5E1Uq1ASOLUc9dz-kyDvu-Si/view?usp=sharing)
+
+- [Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
+- [Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb)

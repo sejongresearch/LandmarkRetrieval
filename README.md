@@ -32,6 +32,6 @@
 - [Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
 
 ### 문제점
-기숙사의 경우 정확도 0퍼센트
-기숙사는 AI센터 or 세종대 정문으로 분류(AI센터는 그렇다해도 세종대 정문은 무엇..?)
+기숙사의 경우 정확도 0퍼센트</br>
+기숙사는 AI센터 or 세종대 정문으로 분류(AI센터는 그렇다해도 세종대 정문은 무엇..?)</br>
 -> 확인이 

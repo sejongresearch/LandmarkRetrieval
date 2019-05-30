@@ -20,5 +20,5 @@
 
 #### 진행 코드
 - [데이터전처리](https://github.com/socome/2019.Spring.AI_Leader/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
-- [전체 모델 (현재 정확도 = 0.71)](https://colab.research.google.com/drive/1auAwJSL9I0QecoeIsAGDE6TFOCDdksyc#scrollTo=OxogKchJZDZM) [[참고한 코드](https://github.com/lyakaap/NetVLAD-pytorch)]
+- [전체 모델 (현재 정확도 = 0.71)](https://github.com/socome/2019.Spring.AI/blob/master/VLADNet_jwkim.ipynb) [[참고한 코드](https://github.com/lyakaap/NetVLAD-pytorch)]
 - [전체 모델 (keras 버전) 구현 중(미완)](https://drive.google.com/file/d/1OyTXv6IG5E1Uq1ASOLUc9dz-kyDvu-Si/view?usp=sharing)

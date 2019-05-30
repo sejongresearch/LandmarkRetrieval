@@ -25,7 +25,13 @@
 - [전체 모델 (keras 버전) 구현 중(미완)](https://drive.google.com/file/d/1OyTXv6IG5E1Uq1ASOLUc9dz-kyDvu-Si/view?usp=sharing)
 
 - [Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
-- [Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb)
 
 ![Train_loss](https://user-images.githubusercontent.com/44772344/58648839-935f7700-8345-11e9-8532-b1abfe4930e4.PNG)
 <학습시 로스가 떨어지는 모습>
+
+- [Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
+
+### 문제점
+기숙사의 경우 정확도 0퍼센트
+기숙사는 AI센터 or 세종대 정문으로 분류(AI센터는 그렇다해도 세종대 정문은 무엇..?)
+-> 확인이 

@@ -26,3 +26,6 @@
 
 - [Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
 - [Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb)
+
+![Train_loss](https://user-images.githubusercontent.com/44772344/58648839-935f7700-8345-11e9-8532-b1abfe4930e4.PNG)
+<학습시 로스가 떨어지는 모습>

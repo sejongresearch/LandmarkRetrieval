@@ -35,5 +35,11 @@
 
 #### 결과
 
+##### Train Loss Graph(Tensor board)
 ![Train_loss](https://user-images.githubusercontent.com/44772344/58648839-935f7700-8345-11e9-8532-b1abfe4930e4.PNG)</br>
+
+##### train data set visualization
 ![1](https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png)
+
+##### test data set visualization
+![2](https://user-images.githubusercontent.com/44772344/58684571-a90b8580-83b3-11e9-9084-977ba7c185a9.png)

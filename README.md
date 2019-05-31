@@ -48,7 +48,6 @@
 - [전체 모델 (keras 버전) 구현 중(미완)](https://drive.google.com/file/d/1OyTXv6IG5E1Uq1ASOLUc9dz-kyDvu-Si/view?usp=sharing)
 ---------------------------------------------------------------------------------------------------
 - [2차 코드 - Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
-
 - [2차 코드 - Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
 
 #### 문제발생 (진행중)

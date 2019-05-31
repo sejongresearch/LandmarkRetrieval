@@ -34,8 +34,11 @@
 -> 확인이 필요
 
 #### 결과
-<p align="center">
+
 ##### train data set visualization
+<p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png">
+</p>
 ![1](https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png)
 <p align="center">
 ##### test data set visualization

@@ -33,8 +33,7 @@
 기숙사는 AI센터 or 세종대 정문으로 분류(AI센터는 그렇다해도 세종대 정문은 무엇..?)</br>
 -> 확인이 필요
 
-### 결과(TSNE을 통한 차원감소)
-[TSNE](https://bcho.tistory.com/1210)
+### 결과(TSNE을 통한 차원감소) [TSNE란?](https://bcho.tistory.com/1210)
 
 ##### train data set visualization
 <p align="center">

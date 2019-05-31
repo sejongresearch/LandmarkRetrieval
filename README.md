@@ -50,7 +50,9 @@
 - [2차 코드 - Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
 - [2차 코드 - Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
 - [2차 코드 - Test_code2](https://colab.research.google.com/drive/128n_nAIa5VuFkx6QjVkpW950bEhRLGGm) 
-**Test code2** 사용시, 중간 prof_team 변수를 True로 바꾸고 실행할 것. 경로 변경 설정 Flag
+
+\\ **Test code2** 사용시,
+중간 prof_team 변수를 True로 바꾸고 실행할 것.
 
 #### 문제발생 (진행중)
 1. 기숙사의 경우 정확도 0퍼센트</br>
@@ -60,8 +62,7 @@
 2. 데이터 로드 함수에서 rotation과 flip을 하지 않았는데 rotation과 flip이 되어서 출력
 -> 확인 필요
 
-3. KNN 알고리즘으로 유사도 정렬이 제대로 이루어 지지않음
--> 확인 필요
+3. KNN 알고리즘으로 유사도 정렬 완전하지 않음
 
 
 ## 결과(TSNE을 통한 차원감소) [TSNE란?](https://bcho.tistory.com/1210)

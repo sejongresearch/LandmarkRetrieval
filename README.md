@@ -1,5 +1,11 @@
 #  세종대 인근 랜드마크 분류기 프로젝트
 
+## 목표
+
+<p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/44772344/58700889-5e523380-83dc-11e9-8eab-2760a64e31b5.png">
+</p>
+
 ### 한달 진행상황
 - 데이터 수집
 - 학습을 위한 데이터 전처리

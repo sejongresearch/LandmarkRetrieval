@@ -39,11 +39,12 @@
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png">
 </p>
-![1](https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png)
-<p align="center">
+
 ##### test data set visualization
-![2](https://user-images.githubusercontent.com/44772344/58684571-a90b8580-83b3-11e9-9084-977ba7c185a9.png)
+<p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/44772344/58684571-a90b8580-83b3-11e9-9084-977ba7c185a9.png">
 </p>
+
               precision    recall  f1-score   support
 
            0       0.60      1.00      0.75        15

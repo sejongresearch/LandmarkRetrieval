@@ -3,7 +3,7 @@
 ## 목표
 
 <p align="center">
-<img width="300" height="150" src="https://user-images.githubusercontent.com/44772344/58700889-5e523380-83dc-11e9-8eab-2760a64e31b5.png">
+<img src="https://user-images.githubusercontent.com/44772344/58701146-24cdf800-83dd-11e9-924d-4e5e247bfec3.png">
 </p>
 
 ### 한달 진행상황

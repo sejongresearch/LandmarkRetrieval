@@ -26,12 +26,14 @@
 
 - [Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
 
-![Train_loss](https://user-images.githubusercontent.com/44772344/58648839-935f7700-8345-11e9-8532-b1abfe4930e4.PNG)</br>
-<학습시 로스가 떨어지는 모습>
-
 - [Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
 
-### 문제발생 (진행중)
+#### 문제발생 (진행중)
 기숙사의 경우 정확도 0퍼센트</br>
 기숙사는 AI센터 or 세종대 정문으로 분류(AI센터는 그렇다해도 세종대 정문은 무엇..?)</br>
 -> 확인이 필요
+
+#### 결과
+
+![Train_loss](https://user-images.githubusercontent.com/44772344/58648839-935f7700-8345-11e9-8532-b1abfe4930e4.PNG)</br>
+![1](https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png)

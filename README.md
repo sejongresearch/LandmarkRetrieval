@@ -10,7 +10,7 @@
 ### train : 직접 촬영한 데이터셋 / test : 직접 촬영한 데이터셋(train에 포함 x) + 네이버 로드뷰 캡쳐 
 
 ### 클래스 : 장소(train,test)
-### 0 : AI센터(169장) 
+### 0 : AI센터(169장,15장) 
 ### 1 : 시계탑(98장,15장)
 ### 2 : 어린이대공원 정문(160장,15장) 
 ### 3 : 세종대 정문(89장,15장) 
@@ -18,6 +18,8 @@
 ### 5 :  석상(95장,15장) 
 ### 6 : 기숙사(33장,15장)
 
+### [데이터셋 보기_train](https://drive.google.com/drive/folders/1bnuESMz_cti7Q3OIX_D9_qN-MgBlJznl?usp=sharing)
+### [데이터셋 보기_test](https://drive.google.com/drive/folders/1ViFzzgWUzb2s2RVXTl49Ewpl-iFSRKuL?usp=sharing)
 
 ## 한달 진행상황
 - 데이터 수집

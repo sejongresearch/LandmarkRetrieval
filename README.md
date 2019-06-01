@@ -50,9 +50,7 @@
 - [2차 코드 - Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
 - [2차 코드 - Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
 - [2차 코드 - Test_code2](https://colab.research.google.com/drive/128n_nAIa5VuFkx6QjVkpW950bEhRLGGm) 
-
-\\ **Test code2** 사용시,
-중간 prof_team 변수를 True로 바꾸고 실행할 것.
+  **Test code2** 사용시, 중간 prof_team 변수를 True로 바꾸고 실행할 것.
 ---------------------------------------------------------------------------------------------------
 - [이미지 유사도 순위(top5)출력](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test_retrieval.ipynb)
 

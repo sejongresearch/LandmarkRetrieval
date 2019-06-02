@@ -16,7 +16,6 @@
 ### 3 : 세종대 정문(89장,15장) 
 ### 4 : 박물관(101장,15장) 
 ### 5 :  석상(95장,15장) 
-### 6 : 기숙사(33장,15장)
 
 ### [데이터셋 보기_train](https://drive.google.com/drive/folders/1bnuESMz_cti7Q3OIX_D9_qN-MgBlJznl?usp=sharing)
 ### [데이터셋 보기_test](https://drive.google.com/drive/folders/1ViFzzgWUzb2s2RVXTl49Ewpl-iFSRKuL?usp=sharing)

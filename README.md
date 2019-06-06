@@ -10,12 +10,12 @@
 ### train : 직접 촬영한 데이터셋 / test : 직접 촬영한 데이터셋(train에 포함 x) + 네이버 로드뷰 캡쳐 
 
 ### 클래스 : 장소(train,test)
-### 0 : AI센터(169장,15장) 
-### 1 : 시계탑(98장,15장)
-### 2 : 어린이대공원 정문(160장,17장) 
-### 3 : 세종대 정문(89장,33장) 
-### 4 : 박물관(110,17장) 
-### 5 :  석상(95장,15장) 
+### 0 : AI센터(182장,14장) 
+### 1 : 시계탑(108장,23장)
+### 2 : 어린이대공원 정문(170장,15장) 
+### 3 : 세종대 정문(98장,24장) 
+### 4 : 박물관(110장,17장) 
+### 5 :  석상(108장,7장) 
 
 ### [데이터셋 보기_train](https://drive.google.com/drive/folders/1bnuESMz_cti7Q3OIX_D9_qN-MgBlJznl?usp=sharing)
 ### [데이터셋 보기_test](https://drive.google.com/drive/folders/1ViFzzgWUzb2s2RVXTl49Ewpl-iFSRKuL?usp=sharing)
@@ -71,21 +71,4 @@
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png">
 </p>
-
-##### test data set visualization
-<p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/44772344/58684571-a90b8580-83b3-11e9-9084-977ba7c185a9.png">
-</p>
-
-
-
-              precision    recall  f1-score   support                confusion matrix
-                                                                      0  1  2  3  4  5  6
-           0       0.60      1.00      0.75        15                15  0  0  0  0  0  0
-           1       1.00      0.93      0.97        15                 1 14  0  0  0  0  0
-           2       0.87      0.87      0.87        15                 0  0 13  2  0  0  0
-           3       0.62      0.87      0.72        15                 0  0  2 13  0  0  0
-           4       1.00      1.00      1.00        15                 0  0  0  0 15  0  0
-           5       1.00      1.00      1.00        15                 0  0  0  0  0 15  0
-           6       0.00      0.00      0.00        15                 9  0  0  6  0  0  0
 

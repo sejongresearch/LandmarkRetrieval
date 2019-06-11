@@ -45,13 +45,13 @@
 - [1차 베이스라인 코드](https://github.com/suimn416/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim.ipynb) 
   [[참고한 코드](https://github.com/lyakaap/NetVLAD-pytorch)]
 ---------------------------------------------------------------------------------------------------
-- [2차 코드 - Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
-- [2차 코드 - Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
+- [2차 코드 - Train_code (pytorch)](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
+- [2차 코드 - Test_code (pytorch)](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
 ---------------------------------------------------------------------------------------------------
 - [이미지 유사도 순위(top5)출력](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test_retrieval.ipynb)
 
-
-- [3차 코드 - Train/ Test code (keras/tensorflow 버전)(완)](https://github.com/glee1228/2019.Spring.AI_Leader/blob/master/netVLAD_triplet_keras.ipynb)
+---------------------------------------------------------------------------------------------------
+- [2차 코드 - Train/ Test code (keras/tensorflow)](https://github.com/glee1228/2019.Spring.AI_Leader/blob/master/netVLAD_triplet_keras.ipynb)
 
 #### 문제발생 (진행중)
 1. 기숙사의 경우 정확도 0퍼센트</br>

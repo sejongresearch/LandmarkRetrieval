@@ -44,25 +44,19 @@
 ---------------------------------------------------------------------------------------------------
 - [1차 베이스라인 코드](https://github.com/suimn416/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim.ipynb) 
   [[참고한 코드](https://github.com/lyakaap/NetVLAD-pytorch)]
-- [전체 모델 (keras 버전) 구현 중(미완)](https://drive.google.com/file/d/1OyTXv6IG5E1Uq1ASOLUc9dz-kyDvu-Si/view?usp=sharing)
 ---------------------------------------------------------------------------------------------------
 - [2차 코드 - Train_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_train.ipynb)
 - [2차 코드 - Test_code](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test.ipynb) 
-- [2차 코드 - Test_code2](https://colab.research.google.com/drive/128n_nAIa5VuFkx6QjVkpW950bEhRLGGm) 
-  (**Test code2** 사용시, 중간 prof_team 변수를 True로 바꾸고 실행할 것.)
 ---------------------------------------------------------------------------------------------------
 - [이미지 유사도 순위(top5)출력](https://github.com/socome/2019.Spring.AI_Leader/blob/master/VLADNet_jwkim_test_retrieval.ipynb)
 
+
+- [3차 코드 - Train/ Test code (keras/tensorflow 버전)(완)](https://github.com/glee1228/2019.Spring.AI_Leader/blob/master/netVLAD_triplet_keras.ipynb)
 
 #### 문제발생 (진행중)
 1. 기숙사의 경우 정확도 0퍼센트</br>
 기숙사는 AI센터 or 세종대 정문으로 분류(AI센터는 그렇다해도 세종대 정문은 무엇..?)</br>
 -> 확인이 필요
-
-2. 데이터 로드 함수에서 rotation과 flip을 하지 않았는데 rotation과 flip이 되어서 출력
--> 확인 필요
-
-3. KNN 알고리즘으로 유사도 정렬 완전하지 않음
 
 
 ## 결과(TSNE을 통한 차원감소) [TSNE란?](https://bcho.tistory.com/1210)
@@ -71,4 +65,11 @@
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/44772344/58684401-24b90280-83b3-11e9-9bbe-921b259c093b.png">
 </p>
+
+## 결과 (K-Nearest Neighbor Algorithm) [KNN란?](https://ko.wikipedia.org/wiki/K-%EC%B5%9C%EA%B7%BC%EC%A0%91_%EC%9D%B4%EC%9B%83_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+<p align="center">
+<img width="567" alt="TestImage" src="https://user-images.githubusercontent.com/26589942/59279004-1ebdfe00-8c9e-11e9-84fe-07910c06f499.png">
+<img width="1070" alt="ResultImage" src="https://user-images.githubusercontent.com/26589942/59279009-2087c180-8c9e-11e9-9636-0964765bc13c.png">
+</p>
+
 

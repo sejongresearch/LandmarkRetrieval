@@ -85,67 +85,7 @@
 
 ## 이미지 검색 결과 평가 방법
 
-- Precision@K (P@K)
-- Mean Average Precision (MAP)
-
-
-
-### Precision@K
-
-1. Set a rank threshold K
-
-2. Compute % relevant in top K
-
-3. Ignores documents ranked lower than K
-
-   
-<img width="256" alt="example" src="https://user-images.githubusercontent.com/26589942/59329656-58d4e180-8d2a-11e9-8a06-4929ee16cd79.png">
-
-
-   ### Ex: True, False, True, False, True
-
-   #### _Prec@3  of  2/3_ 
-
-   #### _Prec@4  of  2/4_
-
-   #### _Prec@5  of  3/5_
-
-   
-
-
-
-### Mean Average Precision
-
-1. Consider rank position of each relevant doc
-
-2. Compute Precision@K for each K_1, K_2, … , K_R
-
-3. Average precision = average of P@K
-
-<img width="256" alt="example" src="https://user-images.githubusercontent.com/26589942/59329344-a0a73900-8d29-11e9-8428-d866da7435cd.png">
-
-
-   ### Ex: True, False, True, False, True
-
-   ### 이 결과의 MAP =  1/3*(1/1+2/3+3/5) :=0.76 
-
-4. MAP is Average Precision across multiple
-   queries/rankings
-
-
-
-### Average Precision example
-
-<img width="640" alt="AP_example" src="https://user-images.githubusercontent.com/26589942/59329356-a69d1a00-8d29-11e9-9de9-01741c70b252.png">
-
-
-
-
-### MAP example
-
-
-<img width="640" alt="MAP_example" src="https://user-images.githubusercontent.com/26589942/59329366-abfa6480-8d29-11e9-959a-e90873fee8b2.png">
-
-
+- [Precision@K(P@K)](https://github.com/suimn416/2019.Spring.AI_Leader/issues/43)
+- [Mean Average Precision(MAP)](https://github.com/suimn416/2019.Spring.AI_Leader/issues/43)
 
 

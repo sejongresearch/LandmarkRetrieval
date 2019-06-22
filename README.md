@@ -64,7 +64,7 @@
 ---------------------------------------------------------------------------------------------------
 - [최종 코드 - Train/ Test code (pytorch - 평가포함)](https://github.com/suimn416/2019.Spring.AI_Leader/blob/master/train.ipynb)
 
-- [웹 애플리케이션 inference 코드 - Test code (pytorch)](https://github.com/suimn416/2019.Spring.AI_Leader/blob/master/inference.ipynb)
+- [웹 애플리케이션 inference 코드 - Test code (pytorch)](https://github.com/suimn416/2019.Spring.AI_Leader/blob/master/infer.ipynb)
 
 
 

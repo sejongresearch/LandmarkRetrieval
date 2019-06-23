@@ -90,3 +90,4 @@
 - [Mean Average Precision(MAP)](https://github.com/suimn416/2019.Spring.AI_Leader/issues/43)
 
 
+[논문](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/49)

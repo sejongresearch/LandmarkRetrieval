@@ -91,3 +91,5 @@
 
 
 [논문](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/49)
+
+[PPT](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/48)

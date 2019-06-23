@@ -67,6 +67,11 @@
 
 - [웹 애플리케이션 inference 코드 - Test code (pytorch)](https://github.com/suimn416/2019.Spring.AI_Leader/blob/master/infer.ipynb)
 
+#### 자료
+
+- [논문](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/49#issuecomment-504761499)
+
+- [PPT](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/48)
 
 
 ## 결과(TSNE을 통한 차원감소) [TSNE란?](https://bcho.tistory.com/1210)
@@ -90,6 +95,3 @@
 - [Mean Average Precision(MAP)](https://github.com/suimn416/2019.Spring.AI_Leader/issues/43)
 
 
-[논문](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/49#issuecomment-504761499)
-
-[PPT](https://github.com/sejongresearch/2019.Spring.AI_Leader/issues/48)
